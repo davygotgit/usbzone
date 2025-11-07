@@ -10,6 +10,9 @@
 //      HTTPD:  v5.5.1/esp-idf/examples/protocols/http_server/simple
 //      MSC:    v5.5.1/esp-idf/examples/peripherals/usb/host/msc
 //
+//	License:	MIT. See the LICENSE file in the project root for more details on the license
+//				for this project.
+//
 #include <dirent.h>
 
 #include "freertos/FreeRTOS.h"
